@@ -17,7 +17,7 @@ Winters model to the entire dataset and make future predictions
 ### PROGRAM:
 
 ![Screenshot 2025-04-22 093404](https://github.com/user-attachments/assets/8705f4db-0ccc-4b81-9744-4b1e4dc6def1)
-![Screenshot 2025-04-22 093418](https://github.com/user-attachments/assets/39ba3ef9-72c2-47e7-ad5f-64a7bd4a8b32)
+![Screenshot 2025-04-22 093418](https://github.com/user-attachments/assets/39ba3ef9-72c2-47e7-ad5f-64a7bd4a8b32) 
 
 
 ### OUTPUT:
